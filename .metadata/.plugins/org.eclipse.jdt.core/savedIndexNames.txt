@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+G:\contest_with_Java\.metadata\.plugins\org.eclipse.jdt.core
+1159026743.index
+3393362957.index
+3800663746.index
