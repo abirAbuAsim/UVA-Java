@@ -1,0 +1,20 @@
+import java.util.*;
+class Main {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		long t = input.nextLong();
+		double n;
+		double x[] = new double[101];
+		double minValue, maxValue;
+		for (int I = 1; I <= t; I++){
+			n = input.nextDouble();
+			minValue = Double
+			for (int J = 0; J < n; J++){
+				x[J] = input.nextDouble();
+			}
+			
+		}
+	}
+
+}
