@@ -24,6 +24,7 @@ public class Main {
 				System.out.format("Case %d: Hajj-e-Asghar\n", counter);
 			}
 		}
+		input.close();
 	}
 
 }

@@ -1,5 +1,5 @@
 /**
- * 	Verdict	: Waiting for submission
+ * 	Verdict	: Accepted
  * 	OJ	 	: UVA online judge
  * 
  * 	@author: absakDev 
